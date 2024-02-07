@@ -1,4 +1,5 @@
 llama-cpp-python
 fastapi
+uvicorn
 streamlit
 pytest
