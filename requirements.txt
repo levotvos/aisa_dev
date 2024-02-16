@@ -2,4 +2,5 @@ llama-cpp-python
 fastapi
 uvicorn
 streamlit
+st-annotated-text
 pytest

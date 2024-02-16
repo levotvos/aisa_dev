@@ -1,6 +1,7 @@
 __pycache__/
 data/*
 prompts/*
+models/*
 
 # Sample data
 !data/csontvary.txt
